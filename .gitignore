@@ -1,1 +1,4 @@
 .idea/
+*.txt
+/user/!.txt
+/app/.js
