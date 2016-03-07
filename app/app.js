@@ -9,7 +9,6 @@
                 return false;
             }
             return 0.5 * h * (a + b);
-            // TEST
         }
     };
 })();
